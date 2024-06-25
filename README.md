@@ -55,6 +55,19 @@ Este é um sistema de estacionamento desenvolvido em Java, que permite registrar
    - Certifique-se de ter o Tesseract OCR instalado e configurado corretamente.
    - Utilize a opção "Captura Automática" para capturar a placa de um veículo a partir de uma imagem.
 
+
+### Tela Captura Automática
+![Captura Automática](https://github.com/CodeYurii/SistemaEstacionamento/blob/main/SistemaEstacionamento/src/main/resources/Imagens/CapturaAutomatica.PNG)
+
+### Tela Pátio
+![Pátio](https://github.com/CodeYurii/SistemaEstacionamento/blob/main/SistemaEstacionamento/src/main/resources/Imagens/ENTRADA.PNG)
+
+### Tela Histórico
+![Histórico](https://github.com/CodeYurii/SistemaEstacionamento/blob/main/SistemaEstacionamento/src/main/resources/Imagens/HISTORICO.PNG)
+
+### Tela Recibo
+![Recibo](https://github.com/CodeYurii/SistemaEstacionamento/blob/main/SistemaEstacionamento/src/main/resources/Imagens/RECIBO.PNG)
+
 ## Observações
 
 - Certifique-se de preencher corretamente todas as informações solicitadas para evitar erros de validação.
